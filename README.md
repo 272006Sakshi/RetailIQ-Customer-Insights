@@ -17,8 +17,6 @@ The goal of this project is to understand how customers shop: who they are, what
 ## 🗂️ Repository Structure
 
 ```
-ShopperPulse/
-│
 ├── customer_shopping_behavior.csv      # Raw dataset
 ├── Customer_behavior_analysis(1).ipynb    # Data cleaning, feature engineering, EDA
 ├── customer_behavior_queries.sql       # business-problem SQL queries
