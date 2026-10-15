@@ -8,7 +8,7 @@ An end-to-end data analytics project that explores customer shopping behavior us
 
 The goal of this project is to understand how customers shop: who they are, what they buy, how much they spend, and what drives loyalty and subscriptions. The analysis is done in three stages:
 
-1. **Data cleaning & EDA** using Python, pandas
+1. **Data cleaning & EDA** using Python, pandas 
 2. **Business problem solving** with SQL queries
 3. **Dashboard** in Power BI for visual, interactive insights
 
